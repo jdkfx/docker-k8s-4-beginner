@@ -1,1 +1,3 @@
 /jenkins/jenkins_home
+/docker-swarm/stack
+/docker-swarm/registry-data
